@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+December 30, 2016.
 
 ## Additional Rules
 1. If I code for school assignments, that time won't count towards the challenge.
