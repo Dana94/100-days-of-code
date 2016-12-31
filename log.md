@@ -16,4 +16,4 @@
 
 **Thoughts:** I am experimenting with event handlers since I know there is more than one way to use them. I need to fix the function for the start/stop button because there must be an easier way to identify what image is currently displayed in order to replace it with the other one. Maybe just put the values in an array to save typing them out? We'll see. I need to lengthen the time lapse between switching out the picture for the second button's function, else the user won't be able to see the figure doing the jumping jack. 
 
-**Link to work:** [flip-book]https://github.com/Dana94/flip-book/commit/2467ab3a431b4e4121a2fb7dfd51a73aa5966079
+**Link to work:** (https://github.com/Dana94/flip-book/commit/2467ab3a431b4e4121a2fb7dfd51a73aa5966079)
