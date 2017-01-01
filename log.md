@@ -18,4 +18,11 @@
 
 **Link to work:** [flip-book](https://github.com/Dana94/flip-book/commit/2467ab3a431b4e4121a2fb7dfd51a73aa5966079)
 
+### Day 2: January 1, 2017
+##### flip-book program
 
+**Today's Progress**: Now the second figure will continually jump up and down once the start button is clicked. The stop button will stop the program. I also put the string values of the image tags into an array to avoid having to write them out each time they're needed. 
+
+**Thoughts:** I used the time interval functions today. I want to try and make one button that can start and stop the program as the images switch during the time interval. I'm still trying to figure out how with the event handlers, I keep cancelling the other one out.
+
+**Link to work:** [flip-book](https://github.com/Dana94/flip-book/commit/5120f34c5655b6786e57cf0ad8b78c8fd0417df7)
