@@ -26,3 +26,13 @@
 **Thoughts:** I used the time interval functions today. I want to try and make one button that can start and stop the program as the images switch during the time interval. I'm still trying to figure out how with the event handlers, I keep cancelling the other one out.
 
 **Link to work:** [flip-book](https://github.com/Dana94/flip-book/commit/5120f34c5655b6786e57cf0ad8b78c8fd0417df7)
+
+### Day 3: January 2, 2017
+##### flip-book program and flower-slideshow
+
+**Today's Progress**: Now the second figure will start and stop with one button being used. I have moved onto another program which is a simple gallery that can shift between images. Right now I'm trying to resize the images so they fit in the center of the page.
+
+**Thoughts:** I realized that in order to have the same button stop the timer, I needed to remove the event listener that started it in the first place. I thought that just adding a new event listener would override the other, but I was wrong.
+
+**Link to work:** [flip-book](https://github.com/Dana94/flip-book/commit/9d9c364f3e508f58d1c91e1cf75bb0f57738f3b2), 
+[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/b02fdc0f4a045f3d98e26a73aa0e448c04ec71a9)
