@@ -36,3 +36,12 @@
 
 **Link to work:** [flip-book](https://github.com/Dana94/flip-book/commit/9d9c364f3e508f58d1c91e1cf75bb0f57738f3b2), 
 [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/b02fdc0f4a045f3d98e26a73aa0e448c04ec71a9)
+
+### Day 4: January 3, 2017
+##### flower-slideshow
+
+**Today's Progress**: The buttons will shift through the images in the gallery in the direction the user chooses.
+
+**Thoughts:** I'm trying to resize the images so whether or not one of the images is big, it would still fit in the center of the page. I'm considering to have a time interval put in so the images will continue to show without the buttons being clicked.
+
+**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/77f7e0b8c2d5bf0f8882fd2644c034ac4ddb410c)
