@@ -45,3 +45,12 @@
 **Thoughts:** I'm trying to resize the images so whether or not one of the images is big, it would still fit in the center of the page. I'm considering to have a time interval put in so the images will continue to show without the buttons being clicked.
 
 **Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/77f7e0b8c2d5bf0f8882fd2644c034ac4ddb410c)
+
+### Day 5: January 4, 2017
+##### flower-slideshow
+
+**Today's Progress**: Using jQuery to have the images fade out and fade in to the next one.
+
+**Thoughts:** It turns out "slow" for fadeOut is not as slow as what I'm looking for so I'm trying to find the right speed to have a noticable gap of time between each image that is displayed. What I am trying to figure out is how to insert the next image in by the time it will fade back into view.
+
+**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/661f2e68f95118bb70b1b89fb4da29534234deaa)
