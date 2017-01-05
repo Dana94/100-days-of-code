@@ -54,3 +54,12 @@
 **Thoughts:** It turns out "slow" for fadeOut is not as slow as what I'm looking for so I'm trying to find the right speed to have a noticable gap of time between each image that is displayed. What I am trying to figure out is how to insert the next image in by the time it will fade back into view.
 
 **Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/661f2e68f95118bb70b1b89fb4da29534234deaa)
+
+### Day 6: January 5, 2017
+##### flower-slideshow
+
+**Today's Progress**: I successfully got the images to fade out and change to the next one in the list before fading back in.
+
+**Thoughts:** So I realized that it made more sense to hide the div that contained the flower image since it would fade out the div and its contents with it. By doing that, I could change the image in the div and still have it not show until the div itself faded back into view.
+
+**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/a51392638fbaa9b053558629040f5eac8802f0fd)
