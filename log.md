@@ -63,3 +63,12 @@
 **Thoughts:** So I realized that it made more sense to hide the div that contained the flower image since it would fade out the div and its contents with it. By doing that, I could change the image in the div and still have it not show until the div itself faded back into view.
 
 **Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/a51392638fbaa9b053558629040f5eac8802f0fd)
+
+### Day 7: January 6, 2017
+##### flower-slideshow
+
+**Today's Progress**: I added a timer interval to have the images continue to display without a user clicking the buttons.
+
+**Thoughts:** I thought I had to clear the timer whenever the buttons are clicked, but I don't think that's the case. I made the interval about 5 sec long between each image, but may lengthen it so the user has time to click the button.
+
+**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4ce0c2384d65a1daddcb2d1c2ad9ca2e8d4593a1)
