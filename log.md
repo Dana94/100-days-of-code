@@ -25,7 +25,7 @@
 
 **Thoughts:** I used the time interval functions today. I want to try and make one button that can start and stop the program as the images switch during the time interval. I'm still trying to figure out how with the event handlers, I keep cancelling the other one out.
 
-**Link to work:** [flip-book](https://github.com/Dana94/flip-book/commit/5120f34c5655b6786e57cf0ad8b78c8fd0417df7)
+**Link to work:** [flip-book] (https://github.com/Dana94/flip-book/commit/5120f34c5655b6786e57cf0ad8b78c8fd0417df7)
 
 ### Day 3: January 2, 2017
 ##### flip-book program and flower-slideshow
@@ -44,7 +44,7 @@
 
 **Thoughts:** I'm trying to resize the images so whether or not one of the images is big, it would still fit in the center of the page. I'm considering to have a time interval put in so the images will continue to show without the buttons being clicked.
 
-**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/77f7e0b8c2d5bf0f8882fd2644c034ac4ddb410c)
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/77f7e0b8c2d5bf0f8882fd2644c034ac4ddb410c)
 
 ### Day 5: January 4, 2017
 ##### flower-slideshow
@@ -53,7 +53,7 @@
 
 **Thoughts:** It turns out "slow" for fadeOut is not as slow as what I'm looking for so I'm trying to find the right speed to have a noticable gap of time between each image that is displayed. What I am trying to figure out is how to insert the next image in by the time it will fade back into view.
 
-**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/661f2e68f95118bb70b1b89fb4da29534234deaa)
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/661f2e68f95118bb70b1b89fb4da29534234deaa)
 
 ### Day 6: January 5, 2017
 ##### flower-slideshow
@@ -62,7 +62,7 @@
 
 **Thoughts:** So I realized that it made more sense to hide the div that contained the flower image since it would fade out the div and its contents with it. By doing that, I could change the image in the div and still have it not show until the div itself faded back into view.
 
-**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/a51392638fbaa9b053558629040f5eac8802f0fd)
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/a51392638fbaa9b053558629040f5eac8802f0fd)
 
 ### Day 7: January 6, 2017
 ##### flower-slideshow
@@ -71,4 +71,13 @@
 
 **Thoughts:** I thought I had to clear the timer whenever the buttons are clicked, but I don't think that's the case. I made the interval about 5 sec long between each image, but may lengthen it so the user has time to click the button.
 
-**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4ce0c2384d65a1daddcb2d1c2ad9ca2e8d4593a1)
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4ce0c2384d65a1daddcb2d1c2ad9ca2e8d4593a1)
+
+### Day 8: January 7, 2017
+##### flower-slideshow
+
+**Today's Progress**: I'm working on displaying the images in a row below the large one shown above them.
+
+**Thoughts:** I'm having difficulty changing proportions of the yellow rose. It is the only image in portrait form. I looked up some info regarding this image sizing issue. It seems that if it is a landscape image in a portrait container, then do width: 100% for the image. If it's a portrait image in a landscape container, then do height: 100% for the image. I'm still testing this out.
+
+**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/bb882b8de6ad20ef259a00c3e9a84b6622579081)
