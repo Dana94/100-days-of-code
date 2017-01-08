@@ -80,4 +80,13 @@
 
 **Thoughts:** I'm having difficulty changing proportions of the yellow rose. It is the only image in portrait form. I looked up some info regarding this image sizing issue. It seems that if it is a landscape image in a portrait container, then do width: 100% for the image. If it's a portrait image in a landscape container, then do height: 100% for the image. I'm still testing this out.
 
-**Link to work:**[flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/bb882b8de6ad20ef259a00c3e9a84b6622579081)
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/bb882b8de6ad20ef259a00c3e9a84b6622579081)
+
+### Day 9: January 8, 2017
+##### flower-slideshow
+
+**Today's Progress**: Resizing main image so the dimensions can be used on all landscape and portrait images.
+
+**Thoughts:** So I used transfom: scale() on the main image, which would fit in the yellow rose. But I had to add many padding and margin values to accomodate its height. Now the landscape images are much higher up when displayed. I'm sure I'm missing an attribute or something that can fix this better than what I'm trying to come up with. The more css I add to the objects, the more I believe that the view of the slideshow will vary greatly on another screen.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/61e76614542ede1b65d08b38a13506461d5db0bd)
