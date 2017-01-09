@@ -90,3 +90,12 @@
 **Thoughts:** So I used transfom: scale() on the main image, which would fit in the yellow rose. But I had to add many padding and margin values to accomodate its height. Now the landscape images are much higher up when displayed. I'm sure I'm missing an attribute or something that can fix this better than what I'm trying to come up with. The more css I add to the objects, the more I believe that the view of the slideshow will vary greatly on another screen.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/61e76614542ede1b65d08b38a13506461d5db0bd)
+
+### Day 10: January 9, 2017
+##### flower-slideshow
+
+**Today's Progress**: Trying to construct a tool that will automatically resize the images correctly by checking its height and width.
+
+**Thoughts:** For once, the yellow rose image seems to have almost centered properly in the page. But the margin-top or padding-top could be adjusted to make sure the smaller images will not move up and down between each big image being displayed.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/f87092ec943b68efe5ad9541635dd14890a54e25)
