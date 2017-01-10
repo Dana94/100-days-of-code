@@ -99,3 +99,12 @@
 **Thoughts:** For once, the yellow rose image seems to have almost centered properly in the page. But the margin-top or padding-top could be adjusted to make sure the smaller images will not move up and down between each big image being displayed.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/f87092ec943b68efe5ad9541635dd14890a54e25)
+
+### Day 11: January 10, 2017
+##### flower-slideshow
+
+**Today's Progress**: Moving away from repositioning the smaller images. Now I'm trying to have the correct dimensions of the next image read before it can be diplayed.
+
+**Thoughts:** I want this program to be ready for more than 10 images in its slideshow, so I decided to change the format again. I'm working on having the program read the height and width of the next image because now it only reads the previous one.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/694743be1988e40ccf6c8b384a0c44e73533fb1d)
