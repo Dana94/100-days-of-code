@@ -108,3 +108,12 @@
 **Thoughts:** I want this program to be ready for more than 10 images in its slideshow, so I decided to change the format again. I'm working on having the program read the height and width of the next image because now it only reads the previous one.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/694743be1988e40ccf6c8b384a0c44e73533fb1d)
+
+### Day 12: January 11, 2017
+##### flower-slideshow
+
+**Today's Progress**: It doesn't look like much of a difference, but I made the images bigger and centered them.
+
+**Thoughts:** Resizing and repositioning the images over and over again can get tiring fast. I'm proud for figuring out the fade-out-in for the images, but when it comes to presentation on the whole page in general, I would like to see this as a 'classy' looking slideshow. Still defining what 'classy' entails...
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/3185680cf8ede2371d171c05c74f3c528c7f5e27)
