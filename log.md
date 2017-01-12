@@ -117,3 +117,12 @@
 **Thoughts:** Resizing and repositioning the images over and over again can get tiring fast. I'm proud for figuring out the fade-out-in for the images, but when it comes to presentation on the whole page in general, I would like to see this as a 'classy' looking slideshow. Still defining what 'classy' entails...
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/3185680cf8ede2371d171c05c74f3c528c7f5e27)
+
+### Day 13: January 12, 2017
+##### flower-slideshow
+
+**Today's Progress**: I decided to take a different approach and focus on the design of the whole thing. The images in the gallery will appear on the left while the one in focus will show on the right.
+
+**Thoughts:** I'm working on how to keep the window from growing once more small images appear on the left side. I decided to ask my question on the FreeCodeCamp forum. I'm not against asking for help, but I always worry that I'll receive less "here's the solution to your problem..." and more "this is what you should do instead of your idea...". Until then, I'll be looking around more for a solution.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/61e7011d8b03826b8546bb6ff64522cf9611651f)
