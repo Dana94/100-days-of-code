@@ -126,3 +126,12 @@
 **Thoughts:** I'm working on how to keep the window from growing once more small images appear on the left side. I decided to ask my question on the FreeCodeCamp forum. I'm not against asking for help, but I always worry that I'll receive less "here's the solution to your problem..." and more "this is what you should do instead of your idea...". Until then, I'll be looking around more for a solution.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/61e7011d8b03826b8546bb6ff64522cf9611651f)
+
+### Day 14: January 13, 2017
+##### flower-slideshow
+
+**Today's Progress**: Thanks to the folks at the forum, I realized I could use overflow: auto when the content in the page grows without needing a scoll bar for the whole window. I also added a few more images to give it some more volume in the gallery. I learned about a unit called 'vh' which, if I understood correctly, makes the object the 1/100 ratio of the height of the viewport. So this could help me with the resizing issue for other screens, I think. 
+
+**Thoughts:** So things are looking pretty good with the program's overall design layout. I'm planning to change some of the back-end so the images could have more names then just 'something'-rose.jpg. I also need to make a way to have the gallery fill without posting every image through html. Right now the code isn't very practical if there are 100+ images.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/55e3055efbf6a713487b40849af8749bdd33e7f8)
