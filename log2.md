@@ -15,3 +15,12 @@
 **Thoughts:** I'm having trouble filling the images into the grid layout of the gallery. There seems to be more padding for some reason so they're farther apart then I'd like to see. I also learned something today. Apparently adding the start of a div to the inner html will have the closing div added for you. I find this odd because if I am looping through images and plan to add a closing div after it, it could change the column width of the elements. I found this out by doing console.log when trying to figure out why my images were not positioning in the way I expected.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/932347a287eeb69c92c0474f8f5b5995d9cb8917)
+
+### Day 17: January 17, 2017
+##### flower-slideshow
+
+**Today's Progress**: I am working on a function to fill the gallery for the grid layout. I need to have a new div row added after every 4 images are displayed. Whenever I try to add another row to the inner html of the gallery it doesn't work. So the first row gets filled with 4 images, but then the program has trouble.
+
+**Thoughts:** I was looking into creating a div element and then appending it to the gallery, but then it involves nodes and I'm not sure if this is the right solution to this problem. I don't see why it is so difficult to just add another gallery row so the next 4 images could be put in it.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/37f0152c22b0163bbf8ecfd33c11c6058899647a)
