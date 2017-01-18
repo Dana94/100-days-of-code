@@ -30,6 +30,6 @@
 
 **Today's Progress**: The button that changes the gallery to column and grid format not only changes its width, but now fills the images in a certain format. The column will have the images filled within one 'row' and the grid will have 4 images maximum on each row. The column is meant to see all the images in a larger size, while the grid is more of a condensed total of all the images.
 
-**Thoughts:** Instead of adding html bit by bit into the html. I decided to concatenate a string (called html) that will insert its contents through jQuery once all the images are looped through. I am really glad this is working. Now I am looking into having each image clickable so a user can choose an image and have it displayed immediately. I'm not sure if the slideshow wil continue from there or not, or it will continue where it left off before a user chose an image to see.
+**Thoughts:** Instead of adding html bit by bit into the index.html file, I decided to concatenate a string (called html) that will insert its contents through jQuery once all the images are looped through. I am really glad this is working. Now I am looking into having each image clickable so a user can choose an image and have it displayed immediately. I'm not sure if the slideshow will continue from the chosen image or it will continue where it left off before a user chose an image to see.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/a024acf10a90218ea2dc39d3914bb9633f47360e)
