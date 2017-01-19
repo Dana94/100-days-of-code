@@ -33,3 +33,12 @@
 **Thoughts:** Instead of adding html bit by bit into the index.html file, I decided to concatenate a string (called html) that will insert its contents through jQuery once all the images are looped through. I am really glad this is working. Now I am looking into having each image clickable so a user can choose an image and have it displayed immediately. I'm not sure if the slideshow will continue from the chosen image or it will continue where it left off before a user chose an image to see.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/a024acf10a90218ea2dc39d3914bb9633f47360e)
+
+### Day 19: January 19, 2017
+##### flower-slideshow
+
+**Today's Progress**: The buttons now have symbols instead of words. I may use glyphs of arrows from Bootstrap for the direction buttons so they are all the same style. I also added a new image and now if you click on any small image, it will appear on the right side in a larger size. Once the user's chosen image is displayed, the slideshow will continue from where it left off.
+
+**Thoughts:** I really like how this program is turning out. I never had a design in mind when I first started working on this, but later on I just started brainstorming ideas from other galleries I've seen and knew I wanted to design a responsive one like theirs.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/15d105cc86a23d412684d799354db80aefb85461)
