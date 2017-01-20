@@ -42,3 +42,12 @@
 **Thoughts:** I really like how this program is turning out. I never had a design in mind when I first started working on this, but later on I just started brainstorming ideas from other galleries I've seen and knew I wanted to design a responsive one like theirs.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/15d105cc86a23d412684d799354db80aefb85461)
+
+### Day 19: January 19, 2017
+##### random-quote-machine, danaottaviani.github.io
+
+**Today's Progress**: I had limited time today, so I removed some tech experience on my resume site to highlight my flower-slideshow, and started working on my random quote program.
+
+**Thoughts:** Not much to say today. I want to have a simple and focused design for the random quote program, maybe have the text show in fancy cursive or something.
+
+**Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/4629b6b3736068c11f38c161c98f67d409b00e0e), [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/391d03f43e1910afd0e592ceb8dda4421a860a2d)
