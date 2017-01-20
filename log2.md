@@ -43,7 +43,7 @@
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/15d105cc86a23d412684d799354db80aefb85461)
 
-### Day 19: January 19, 2017
+### Day 20: January 20, 2017
 ##### random-quote-machine, danaottaviani.github.io
 
 **Today's Progress**: I had limited time today, so I removed some tech experience on my resume site to highlight my flower-slideshow, and started working on my random quote program.
