@@ -51,3 +51,12 @@
 **Thoughts:** Not much to say today. I want to have a simple and focused design for the random quote program, maybe have the text show in fancy cursive or something.
 
 **Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/4629b6b3736068c11f38c161c98f67d409b00e0e), [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/391d03f43e1910afd0e592ceb8dda4421a860a2d)
+
+### Day 21: January 21, 2017
+##### flower-slideshow
+
+**Today's Progress**: I am working on a button for uploading images into the gallery. I guess they will be added to the array, which means some things in the app.js file need to be altered. I can't expect all images uploaded to follow the 'name-rose.jpg' format.
+
+**Thoughts:** I had a hard time finding any instructions on developer.modzilla.org on implementing an upload tool in my program. I found the input tag as an option but not sure on how to make it work through my own button.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/7c2741e8c2008b0c8e719020aec3f92142f8c18d)
