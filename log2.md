@@ -60,3 +60,12 @@
 **Thoughts:** I had a hard time finding any instructions on developer.modzilla.org on implementing an upload tool in my program. I found the input tag as an option but not sure on how to make it work through my own button.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/7c2741e8c2008b0c8e719020aec3f92142f8c18d)
+
+### Day 22: January 22, 2017
+##### flower-slideshow, calculator
+
+**Today's Progress**: I submitted another question to the Free Code Camp forum on my uploading function in the flower-slideshow. I have never done this before and I don't want to google some quick solution, though I am not finding anything else to guide me here. I also went back to the calculator program. It has been a while and it looks pretty depressing. I just changed the button style and aded event listeners so the name of each button is the value that appears in the text box. I really want to create a nice sleek design for this program. Once I create a basic calculator, I'd like to find a way to incorporate my math knowledge to create a more complex device, like a graphing calculator.
+
+**Thoughts:** I need to get back on the programming bandwagon. The more questions I ask and the more time I invest will no doubt improve the knowledge I currently have.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/7e4cbad91ca68517d667073d54af87028e9063e4), [calculator](https://github.com/Dana94/calculator/commit/37b9babefedb19918115e219b58577af2642d5a0)
