@@ -69,3 +69,12 @@
 **Thoughts:** I need to get back on the programming bandwagon. The more questions I ask and the more time I invest will no doubt improve the knowledge I currently have.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/7e4cbad91ca68517d667073d54af87028e9063e4), [calculator](https://github.com/Dana94/calculator/commit/37b9babefedb19918115e219b58577af2642d5a0)
+
+### Day 23: January 23, 2017
+##### random-quote-machine
+
+**Today's Progress**: I would like to expand this project into a quiz to see if a user could guess which person said the quote. Since I would like to continue forward in Free Code Camp, I will submit what I have once the randomization is finished and change it later on.
+
+**Thoughts:** I added a progress bar so the user could visualize how many quotes they haven't seen yet. It works so far, but I have to get a new index value if the one chosen already contains the value 'true' for its 'shown' property.
+
+**Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/14bb7c3ace1845e1aa49e95cbdd2f0339072e923)
