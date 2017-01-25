@@ -87,3 +87,12 @@
 **Thoughts:** As I am typing this, I realize the reset button won't work until all the 'shown' values are changed to 'false' again. That could be what is keeping the reset button from working.
 
 **Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/01226de4a6f9cb9e24af53182580d410ec126669)
+
+### Day 25: January 25, 2017
+##### random-quote-machine
+
+**Today's Progress**: So the reset button works and a user can keep pressing the buttons to have the list of quotes display from the start to end in a random order. I also added a Twitter button, the symbol was found on fontawesome.io. 
+
+**Thoughts:** I completely forgot the user story about having the ability to tweet the quotes. I have no experience in this so if I need to have a Twitter account for this to work, then I am out of luck. I don't have one :). Maybe I can do email if that is the case.
+
+**Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/05813ff9c8fea055ba6616057a7eede714ea8c96)
