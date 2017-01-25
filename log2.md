@@ -78,3 +78,12 @@
 **Thoughts:** I added a progress bar so the user could visualize how many quotes they haven't seen yet. It works so far, but I have to get a new index value if the one chosen already contains the value 'true' for its 'shown' property.
 
 **Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/14bb7c3ace1845e1aa49e95cbdd2f0339072e923)
+
+### Day 24: January 24, 2017
+##### random-quote-machine
+
+**Today's Progress**: I am nearly done with having this program work with a randomization function. Right now I am trying to have a reset button start the progress bar from 0 and have all the quotes redisplayed randomly again.
+
+**Thoughts:** As I am typing this, I realize the reset button won't work until all the 'shown' values are changed to 'false' again. That could be what is keeping the reset button from working.
+
+**Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/01226de4a6f9cb9e24af53182580d410ec126669)
