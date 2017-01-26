@@ -96,3 +96,12 @@
 **Thoughts:** I completely forgot the user story about having the ability to tweet the quotes. I have no experience in this so if I need to have a Twitter account for this to work, then I am out of luck. I don't have one :). Maybe I can do email if that is the case.
 
 **Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/05813ff9c8fea055ba6616057a7eede714ea8c96)
+
+### Day 26: January 26, 2017
+##### random-quote-machine
+
+**Today's Progress**: I believe I properly added the Twitter button's functionality so a user can tweet any of the quotes.
+
+**Thoughts:** I have the code in CodePen.io so someone in the forum could look at it and let me know if something is not working for them. I want someone's opinion before submitting it.
+
+**Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/b4180fbe36d8a6e5741704fc58e7ebf3264104cd)
