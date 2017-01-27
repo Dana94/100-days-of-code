@@ -105,3 +105,12 @@
 **Thoughts:** I have the code in CodePen.io so someone in the forum could look at it and let me know if something is not working for them. I want someone's opinion before submitting it.
 
 **Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/b4180fbe36d8a6e5741704fc58e7ebf3264104cd)
+
+### Day 27: January 27, 2017
+##### flower-slideshow
+
+**Today's Progress**: I'm sorry to report I did far more reading up articles on the best steps to take to implementing the upload feature than on coding it. I'm trying to avoid reading a tutorial on how this process is done and using their code to make it happen (with their ownership mentioned of course), but I think this is the best way to be honest. I have never done this before and I have no idea what I am doing right now.
+
+**Thoughts:** I had to fix the Twitter button but now I have a post requesting feedback for my random quote machine. Hopefully good feedback is returned.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/cd608311a7a1a9c014ba1704fe3685d470ed5bd9)
