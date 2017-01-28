@@ -114,3 +114,12 @@
 **Thoughts:** I had to fix the Twitter button but now I have a post requesting feedback for my random quote machine. Hopefully good feedback is returned.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/cd608311a7a1a9c014ba1704fe3685d470ed5bd9)
+
+### Day 28: January 28, 2017
+##### random-quote-machine
+
+**Today's Progress**: Some feedback received was that the layout was messing up in different screen sizes and that I ended up concatenating each quote together whenever the Twitter button was pushed. I fixed those issues, I still want to test out the layout more before submitting it.
+
+**Thoughts:** I find that I am constantly reminded {display: block, margin-right: auto, margin-left: auto } could help center objects. I guess Bootstrap can't do everything.
+
+**Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/e37a421ad5aaecf20b270743da313e4bea9ab613)
