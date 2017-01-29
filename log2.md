@@ -123,3 +123,12 @@
 **Thoughts:** I find that I am constantly reminded {display: block, margin-right: auto, margin-left: auto } could help center objects. I guess Bootstrap can't do everything.
 
 **Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/e37a421ad5aaecf20b270743da313e4bea9ab613)
+
+### Day 29: January 29, 2017
+##### flower-slideshow
+
+**Today's Progress**: The layout looks really bad in mobile so that's what I've been working on today. It doesn't look any better yet.
+
+**Thoughts:** I am trying to change the button sizes when the screen width decreases. Also, the width and height of the whole page does not seem to fix to the mobile screen. You can still move the page around and see white space off to the right and the bottom. I though height: 100% and width: 100% would help but I don't think I'm doing it right.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4635174f463f138d0cbaa046281e938039bcacc4)
