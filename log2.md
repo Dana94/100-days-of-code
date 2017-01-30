@@ -132,3 +132,12 @@
 **Thoughts:** I am trying to change the button sizes when the screen width decreases. Also, the width and height of the whole page does not seem to fix to the mobile screen. You can still move the page around and see white space off to the right and the bottom. I though height: 100% and width: 100% would help but I don't think I'm doing it right.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4635174f463f138d0cbaa046281e938039bcacc4)
+
+### Day 30: January 30, 2017
+##### random-quote-machine
+
+**Today's Progress**: After playing around with the screen sizes, I think the layout now looks good on mobile devices.
+
+**Thoughts:** Hopefully the sucess in improving the layout in this program can help me finally make the flower-slideshow program look decent in mobile devices too. I worked on it today but it doesn't look like much has changed.
+
+**Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/02bfc86e9a46db84c4efd14fdd5c15d34da2d31d)
