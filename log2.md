@@ -141,3 +141,12 @@
 **Thoughts:** Hopefully the sucess in improving the layout in this program can help me finally make the flower-slideshow program look decent in mobile devices too. I worked on it today but it doesn't look like much has changed.
 
 **Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/02bfc86e9a46db84c4efd14fdd5c15d34da2d31d)
+
+### Day 31: February 2, 2017
+##### flower-slideshow
+
+**Today's Progress**: Okay, so the mobile view is starting to improve, but now it seems the buttons' spacing needs to be altered. I'm guessing playing around with the grid columns should help.
+
+**Thoughts:** This program is starting to look pretty nice! After the display is FINALLY finished, I want to go back to the upload feature. It should be my last thing to do.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/7cb4b3daa88119d6a7b5d90f3ace06a31c460f93)
