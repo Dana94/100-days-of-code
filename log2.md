@@ -150,3 +150,12 @@
 **Thoughts:** This program is starting to look pretty nice! After the display is FINALLY finished, I want to go back to the upload feature. It should be my last thing to do.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/7cb4b3daa88119d6a7b5d90f3ace06a31c460f93)
+
+### Day 32: February 3, 2017
+##### flower-slideshow
+
+**Today's Progress**: The layout still isn't better in mobile, BUT the buttons are going to have more room on the top once I cancel the option to have a mobile user choose grid form for the photos. It wouldn't make sense to have another display for the images that would take up more room on the screen.
+
+**Thoughts:** Not many thoughts today, I think other people have the same trouble with CSS as I do, I only hope something will finally click and everything will be laid out like I want it to be.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/8d2a920368a21401f430d1afc4590f7c1a9215b4)
