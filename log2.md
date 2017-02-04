@@ -159,3 +159,12 @@
 **Thoughts:** Not many thoughts today, I think other people have the same trouble with CSS as I do, I only hope something will finally click and everything will be laid out like I want it to be.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/8d2a920368a21401f430d1afc4590f7c1a9215b4)
+
+### Day 33: February 4, 2017
+##### flower-slideshow
+
+**Today's Progress**: I have made progress today! When the program is viewed in a phone screen size, the gallery-layout button is removed so the grid format won't take up more of the small screen. Also, I think the buttons are a good size when their font is enlarged so they are easier to read.
+
+**Thoughts:** I just need to do a few more tests to make sure the buttons look good on all screen sizes, then I can go back to working on the upload feature. I'll be relieved once I'm past this styling business.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/420efcd39a9f85952284e5910a6972e1e4c33ea9)
