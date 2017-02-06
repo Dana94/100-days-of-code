@@ -168,3 +168,12 @@
 **Thoughts:** I just need to do a few more tests to make sure the buttons look good on all screen sizes, then I can go back to working on the upload feature. I'll be relieved once I'm past this styling business.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/420efcd39a9f85952284e5910a6972e1e4c33ea9)
+
+### Day 34: February 6, 2017
+##### flower-slideshow
+
+**Today's Progress**: I did multiple tests with Google Chrome's mobile devices to see how the buttons would look in different screen widths. It looks like everything is good and now I will continue to work on the upload feature for one of the buttons.
+
+**Thoughts:** Not much to say, I'm just glad the buttons are done styling. I hope succeeding in the upload function will help me understand how the export feature works if I ever need to use it, perhaps on my own site.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4825b668ddf40392f942d26a8b73c1783afc61cc)
