@@ -177,3 +177,12 @@
 **Thoughts:** Not much to say, I'm just glad the buttons are done styling. I hope succeeding in the upload function will help me understand how the export feature works if I ever need to use it, perhaps on my own site.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4825b668ddf40392f942d26a8b73c1783afc61cc)
+
+### Day 35: February 9, 2017
+##### weather-app
+
+**Today's Progress**: I am trying to keep up with Free Code Camp projects, so I started a weather-app that will show a user their location's current temperature and weather.
+
+**Thoughts:** Since this project will require a weather API, I can start getting the hang of using these kinds of tools for future projects.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/8e7037dfa2e9c88c8feb4401f49bd6ff50a36583)
