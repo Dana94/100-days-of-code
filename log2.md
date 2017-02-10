@@ -186,3 +186,12 @@
 **Thoughts:** Since this project will require a weather API, I can start getting the hang of using these kinds of tools for future projects.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/8e7037dfa2e9c88c8feb4401f49bd6ff50a36583)
+
+### Day 36: February 10, 2017
+##### weather-app
+
+**Today's Progress**: Thanks to css-tricks.com, the images now show up perfectly on all devices. I've been looking at the weather API mentioned on Free Code Camp, but I am planning to try and use a jQuery plug-in instead so I won't have to use an API key.
+
+**Thoughts:** I really like the design so far, a beautiful background pic expressing the current weather with a semi-transparent middle column displaying the information. 
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/e3796480026ee3318755900697504287d264cbd2)
