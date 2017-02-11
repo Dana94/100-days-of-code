@@ -195,3 +195,12 @@
 **Thoughts:** I really like the design so far, a beautiful background pic expressing the current weather with a semi-transparent middle column displaying the information. 
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/e3796480026ee3318755900697504287d264cbd2)
+
+### Day 37: February 11, 2017
+##### weather-app
+
+**Today's Progress**: Nothing new, except I decided to use different weather fonts from fontawesome.io to show a symbol for the weather aside from writing it out.
+
+**Thoughts:** I bookmarked a bunch of posts related to AJAX and other people's questions regarding this project on Free Code Camp. I plan to read them to see why I am having difficulty in retrieving the correct info when using lattitude and longitude obtained from geolocation.  
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/32b65c7ab95c1afaf4a8e5bc34e0c0ca8ae16fcd)
