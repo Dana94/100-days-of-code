@@ -204,3 +204,12 @@
 **Thoughts:** I bookmarked a bunch of posts related to AJAX and other people's questions regarding this project on Free Code Camp. I plan to read them to see why I am having difficulty in retrieving the correct info when using lattitude and longitude obtained from geolocation.  
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/32b65c7ab95c1afaf4a8e5bc34e0c0ca8ae16fcd)
+
+### Day 38: February 12, 2017
+##### weather-app
+
+**Today's Progress**: Got the weather coming in through simpleweather.js! I had to download the zip file because the script for the link didn't seem to work. I'm now trying to understand what command retrieves what and how I can use the info to personalize the page according to the user's location.
+
+**Thoughts:** I am now trying to figure out a simple way to know what key words like 'snow' and 'cloudy' can be read and implemented in the icons and backgound picture. Since weathers can happen at once like 'snow and rain', I need to decide what takes precedence since there can only be one background picture that describes the weather.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/b8067bd112f310016382321c8d4d6cf4d2b96c31)
