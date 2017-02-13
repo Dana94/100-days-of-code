@@ -213,3 +213,12 @@
 **Thoughts:** I am now trying to figure out a simple way to know what key words like 'snow' and 'cloudy' can be read and implemented in the icons and backgound picture. Since weathers can happen at once like 'snow and rain', I need to decide what takes precedence since there can only be one background picture that describes the weather.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/b8067bd112f310016382321c8d4d6cf4d2b96c31)
+
+### Day 39: February 13, 2017
+##### weather-app
+
+**Today's Progress**: I added more images and started analyzing the condition text to see how I can pull the best background image to represent the weather.
+
+**Thoughts:** I am trying to sort the weather words so 'snow' will come before 'cloudy', while 'windy' weather can just show a day or night image. I think I can also see what time a location experiences the sunrise and sunset and can put in an image with the sun rising or setting to match it.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/b0dd2c2de48ec08cd0b06b118bb8b89d540a56e2)
