@@ -222,3 +222,12 @@
 **Thoughts:** I am trying to sort the weather words so 'snow' will come before 'cloudy', while 'windy' weather can just show a day or night image. I think I can also see what time a location experiences the sunrise and sunset and can put in an image with the sun rising or setting to match it.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/b0dd2c2de48ec08cd0b06b118bb8b89d540a56e2)
+
+### Day 40: February 15, 2017
+##### weather-app
+
+**Today's Progress**: I decided to add the weather info to an object called 'myWeather' so I can use it in other parts of the program. I find it easier than having everything done in the simplyWeather function that receives the info. I also reversed the array to show precedence between the weather conditions. The last word found in the myWeather.condition string should be the weather displayed in the icons and background.
+
+**Thoughts:** I want to use thermometer icons so I need to create a range that would make the displayed thermometer icon (half, full, empty) resemble the current temperature.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/eb81d67d2f8a35bb4122db3ce3112c2640f4d792)
