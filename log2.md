@@ -231,3 +231,12 @@
 **Thoughts:** I want to use thermometer icons so I need to create a range that would make the displayed thermometer icon (half, full, empty) resemble the current temperature.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/eb81d67d2f8a35bb4122db3ce3112c2640f4d792)
+
+### Day 41: February 18, 2017
+##### weather-app
+
+**Today's Progress**: I have a thermometer representing the fahrenheit temperature. I'll probably change it to a switch statement later. I'm also getting familiar with the Date object. I want to change the background to a sunrise or sunset image if the current time is within 20 min before their sunrise/sunset time and 20 min after their sunrise/sunset time. I chose 20 min because that seemed like a reasonable amount of time, may change it later.
+
+**Thoughts:** I'm tryng to personalize this enough so it really represents the user's current weather. I'm not really sure what all my plans will be, but I'm willing to experiment with the info the plug-in gives me.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/8fbb592484deb5c12247ec1c734056fa0fe3e3a3)
