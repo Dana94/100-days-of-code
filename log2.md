@@ -240,3 +240,12 @@
 **Thoughts:** I'm tryng to personalize this enough so it really represents the user's current weather. I'm not really sure what all my plans will be, but I'm willing to experiment with the info the plug-in gives me.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/8fbb592484deb5c12247ec1c734056fa0fe3e3a3)
+
+### Day 42: February 19, 2017
+##### weather-app
+
+**Today's Progress**: Just worked on more conditionals for deciding which icons to display. I'm still struggling with the sunset/sunrise times. I know they are in string format for easier use, but I want to use them to check if the user's current time is close enough to those times in order to put a sunrise/sunset image in the background. I looked on Stack Overflow for this and found some stuff I'll try to implement tomorrow.
+
+**Thoughts:** Nothing much, still dealing with the string times.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/fadec6f8da6ff29fa175be9eb887d90b0a19f24c)
