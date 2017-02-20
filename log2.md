@@ -249,3 +249,12 @@
 **Thoughts:** Nothing much, still dealing with the string times.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/fadec6f8da6ff29fa175be9eb887d90b0a19f24c)
+
+### Day 43: February 20, 2017
+##### weather-app
+
+**Today's Progress**: I added 20 min to the current time and subtracted 20 min to check that the minus 20 min is before the sunrise/sunset time (individually) as well as the plus 20 min is after the sunrise/sunset time. This will give a fair interval to still show the background image that best represents the sky.
+
+**Thoughts:** I'm going to look up more images that will add more weather condition options for the background.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/e39b076b722e0d1c7cbbff9e8577776bfd446cc3)
