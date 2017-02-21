@@ -258,3 +258,12 @@
 **Thoughts:** I'm going to look up more images that will add more weather condition options for the background.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/e39b076b722e0d1c7cbbff9e8577776bfd446cc3)
+
+### Day 44: February 21, 2017
+##### weather-app
+
+**Today's Progress**: I didn't do anything new today except check the screen sizes (which need a bit more tweaking) and to decide of there will be anymore plans for this app. Maybe some small animation will give it more of a unique design.
+
+**Thoughts:** I want to put the project on Code Pen for review before submitting. I want to have other people's opinions about the design. Is it too simple? Or is it better this way?
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/4439f2ea6fea65bae5d7823f16c2e63a4b15fbd9)
