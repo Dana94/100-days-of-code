@@ -267,3 +267,12 @@
 **Thoughts:** I want to put the project on Code Pen for review before submitting. I want to have other people's opinions about the design. Is it too simple? Or is it better this way?
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/4439f2ea6fea65bae5d7823f16c2e63a4b15fbd9)
+
+### Day 45: February 24, 2017
+##### weather-app
+
+**Today's Progress**: I just cleaned up the code and spent a good 20 min trying to put the code on Code Pen :P. I knew that GitHub could put the site live, but thought I could only do a limited number of projects, good thing I was wrong. Much easier to link to the live site then do all the copy-and-pasting to Code Pen. I asked for a review on Free Code Camp. https://dana94.github.io/weather-app/
+
+**Thoughts:** I have other visual projects I want to work on. But at the same time I want to get into Sass and other code like CSS that I have never used before. I'm looking forward to this expanding my skills compared to what I know now in terms of visual and user-friendly design.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/f2630f4185fd0f56c45a795f82b590f365668e62)
