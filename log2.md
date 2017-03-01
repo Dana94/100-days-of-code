@@ -276,3 +276,12 @@
 **Thoughts:** I have other visual projects I want to work on. But at the same time I want to get into Sass and other code like CSS that I have never used before. I'm looking forward to this expanding my skills compared to what I know now in terms of visual and user-friendly design.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/f2630f4185fd0f56c45a795f82b590f365668e62)
+
+### Day 46: March 1, 2017
+##### clock
+
+**Today's Progress**: It's been a few days. I've been swamped with homework and tests. I came up with a new program which is an analog clock. It will show the hour, min, and sec hand representing the real time. For today, I just added the color scheme.
+
+**Thoughts:** I've been learning SASS on Codecademy, but I thought I should continue with a new project to keep up with the 100 days of code plan.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/995ae02bc5d54b98f81b595f3c602ff4da874a11)
