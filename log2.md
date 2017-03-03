@@ -285,3 +285,12 @@
 **Thoughts:** I've been learning SASS on Codecademy, but I thought I should continue with a new project to keep up with the 100 days of code plan.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/995ae02bc5d54b98f81b595f3c602ff4da874a11)
+
+### Day 47: March 3, 2017
+##### clock
+
+**Today's Progress**: Managed to get the min hand to pivot around the center. I want to fix the padding-top and left so it will look good on mobile too.
+
+**Thoughts:** I'm excited to see this when it's complete!
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/15adeb8bd88a868e291139aaa7b9a10385e82dd3)
