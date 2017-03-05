@@ -294,3 +294,12 @@
 **Thoughts:** I'm excited to see this when it's complete!
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/15adeb8bd88a868e291139aaa7b9a10385e82dd3)
+
+### Day 48: March 5, 2017
+##### clock
+
+**Today's Progress**: I added the second hand and I think they look pretty centered. I had to change the transform-origin values so their top left corners wouldn't move from its point when the divs rotated. Then I had to overlap them with z-index do they'd all stay in the center of the clock.
+
+**Thoughts:** I'm probably going to work on having one hand reflect the current time at first so I know that I'm doing it right. Probably the second hand since its position is constantly changing. Not sure if I should add some numbers or something on the face.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/1a44c055eaa45f2746f460a74ea63470264e0df0)
