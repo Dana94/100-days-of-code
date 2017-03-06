@@ -303,3 +303,12 @@
 **Thoughts:** I'm probably going to work on having one hand reflect the current time at first so I know that I'm doing it right. Probably the second hand since its position is constantly changing. Not sure if I should add some numbers or something on the face.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/1a44c055eaa45f2746f460a74ea63470264e0df0)
+
+### Day 49: March 6, 2017
+##### weather-app
+
+**Today's Progress**: I realized that the currentPlus20/Minus20 times were not being compared properly with the sunrise/sunset times. I think I fixed it, will have to wait until later :).
+
+**Thoughts:** I'm glad that seemed like an easy fix with a little trial-and-error. Thank goodness for console.log.
+
+**Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/4bcdcab403ae025e8019237c0258305a8326fabe)
