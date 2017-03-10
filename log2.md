@@ -312,3 +312,12 @@
 **Thoughts:** I'm glad that seemed like an easy fix with a little trial-and-error. Thank goodness for console.log.
 
 **Link to work:** [weather-app](https://github.com/Dana94/weather-app/commit/4bcdcab403ae025e8019237c0258305a8326fabe)
+
+### Day 50: March 10, 2017
+##### clock
+
+**Today's Progress**: So the weather-app seems done (again) so now I am back to the clock program. I decided to try and add small tick marks along the clock face to show the numbers. I never understood how precisely someone could read a clock with no representation of numbers on it :/.
+
+**Thoughts:** I thought I finally got the '12' tick in its right place, but it seems to alter the origin of the hands when I minimize the screen. I need to work on this.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/d9382cd59f0828b2bddb0c729f657e30d2bcd555)
