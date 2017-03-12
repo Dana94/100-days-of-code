@@ -321,3 +321,12 @@
 **Thoughts:** I thought I finally got the '12' tick in its right place, but it seems to alter the origin of the hands when I minimize the screen. I need to work on this.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/d9382cd59f0828b2bddb0c729f657e30d2bcd555)
+
+### Day 51: March 12, 2017
+##### clock
+
+**Today's Progress**: I took a break from trying to make the ticks work with the hands, but I did successfully make the hands represent real time.
+
+**Thoughts:** I plan to work on displaying the numbers next time. I just don't want to mess up the hands since they are working now.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/ea47de4cd0ce6238791a43d71a2409980d402671)
