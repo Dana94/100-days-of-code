@@ -330,3 +330,12 @@
 **Thoughts:** I plan to work on displaying the numbers next time. I just don't want to mess up the hands since they are working now.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/ea47de4cd0ce6238791a43d71a2409980d402671)
+
+### Day 52: March 13, 2017
+##### clock
+
+**Today's Progress**: I added the ticks for the 12,3,6,9 on the clock. I think they are evenly positioned. I want the hands to completely cover the ticks when they land on it.
+
+**Thoughts:** Working on 1 and 2 now. They need to be rotated more and I wonder if I can try to get the witdth and height of the clock to make their position more accurate. I'm just doing this by eye now.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/89bcdd3731da38af7fe07460ba7eadc1c1990f3f)
