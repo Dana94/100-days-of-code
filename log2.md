@@ -339,3 +339,12 @@
 **Thoughts:** Working on 1 and 2 now. They need to be rotated more and I wonder if I can try to get the witdth and height of the clock to make their position more accurate. I'm just doing this by eye now.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/89bcdd3731da38af7fe07460ba7eadc1c1990f3f)
+
+### Day 53: March 14, 2017
+##### clock
+
+**Today's Progress**: All the 'numbers' are on the face now. I want to check if the hands fall evenly on each one, but I won't sweat too much of the small stuff.
+
+**Thoughts:** When I have this clock done, I can easily customize the face to be something else, like a character from pop-culture :).
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/c2a4a118fc509b6c7a3df74707291fc639a4cd2a)
