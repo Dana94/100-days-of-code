@@ -348,3 +348,12 @@
 **Thoughts:** When I have this clock done, I can easily customize the face to be something else, like a character from pop-culture :).
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/c2a4a118fc509b6c7a3df74707291fc639a4cd2a)
+
+### Day 54: March 17, 2017
+##### clock
+
+**Today's Progress**: New clock face in the making! I'm using shapes to construct the face for this pop-culture icon. ;)
+
+**Thoughts:** The more CSS I write, the more I think I should transfer this code into Sass. I took a course on Codecademy on it and it would definitely solve the lengthy problem I have now. Will look into this later in the week.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/f19c37828a5b03abab6d5786e809f3a7340570b0)
