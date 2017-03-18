@@ -357,3 +357,12 @@
 **Thoughts:** The more CSS I write, the more I think I should transfer this code into Sass. I took a course on Codecademy on it and it would definitely solve the lengthy problem I have now. Will look into this later in the week.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/f19c37828a5b03abab6d5786e809f3a7340570b0)
+
+### Day 55: March 18, 2017
+##### clock
+
+**Today's Progress**: I added the hands and fixed the z-indexes so the correct parts will overlap. I'm working on the accessory now and I need to use separate shapes to make it. It's harder than it looks.
+
+**Thoughts:** Haven't gone into Sass yet, but I will soon! I'm just trying to make this second clock face as close to the character as I can.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/6e84ebe2dd8449dcf99a44d244263cb7dbe303da)
