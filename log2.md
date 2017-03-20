@@ -366,3 +366,12 @@
 **Thoughts:** Haven't gone into Sass yet, but I will soon! I'm just trying to make this second clock face as close to the character as I can.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/6e84ebe2dd8449dcf99a44d244263cb7dbe303da)
+
+### Day 56: March 20, 2017
+##### clock
+
+**Today's Progress**: So the bow is done (I think) and now onto the whiskers. They look kind of weird and I'm not sure if I'll keep them yet. :/
+
+**Thoughts:** Ugh, the CSS length is killing me! I put a table of contents in the beginning. Someone gave me that tip once.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/fb5f36f1c4995f6b1ab25a74df92f5f655309de4)
