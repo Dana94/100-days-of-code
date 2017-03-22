@@ -375,3 +375,12 @@
 **Thoughts:** Ugh, the CSS length is killing me! I put a table of contents in the beginning. Someone gave me that tip once.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/fb5f36f1c4995f6b1ab25a74df92f5f655309de4)
+
+### Day 57: March 22, 2017
+##### clock
+
+**Today's Progress**: Added the right-side whiskers. I spent a lot of time with the sass file. I think I'd prefer scss for this one though, I learned about it on Codecademy.
+
+**Thoughts:** It just doesn't seem that the scss code is "correct" in the file. I thought it would have the same color-coded words like CSS does. Maybe something was written wrong, I'll see to this next time.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/73191b97f486638f719b9dd544dee924ce2f1dff)
