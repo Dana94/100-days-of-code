@@ -384,3 +384,12 @@
 **Thoughts:** It just doesn't seem that the scss code is "correct" in the file. I thought it would have the same color-coded words like CSS does. Maybe something was written wrong, I'll see to this next time.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/73191b97f486638f719b9dd544dee924ce2f1dff)
+
+### Day 58: March 23, 2017
+##### clock
+
+**Today's Progress**: Removed the scss file. I thought that from now on I'll just start with sass or scss and update a css file along side it. There is really no use to putting one in this program.
+
+**Thoughts:** I need to work on the extra spacing in the mobile view (which seems like a neverending issue with my projects). Then I want to look at the hands again to be sure they are straight.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/57d07f1a8fce31f585da4f2951bfcfe4548616ee)
