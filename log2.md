@@ -393,3 +393,12 @@
 **Thoughts:** I need to work on the extra spacing in the mobile view (which seems like a neverending issue with my projects). Then I want to look at the hands again to be sure they are straight.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/57d07f1a8fce31f585da4f2951bfcfe4548616ee)
+
+### Day 59: March 24, 2017
+##### clock
+
+**Today's Progress**: I am still testing to see if the column structures will help balance out the kitty clock features.
+
+**Thoughts:** I made the program public and asked Free Code Camp forum for advice on the column/margin/padding issue I have now.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/f3e0c0d2bbfac0b2c465e17c139acc606e9de2e2)
