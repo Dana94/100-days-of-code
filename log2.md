@@ -402,3 +402,12 @@
 **Thoughts:** I made the program public and asked Free Code Camp forum for advice on the column/margin/padding issue I have now.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/f3e0c0d2bbfac0b2c465e17c139acc606e9de2e2)
+
+### Day 60: March 26, 2017
+##### clock
+
+**Today's Progress**: I received some feedback from the forum. It would be better for me to rely more on margin/padding and the top/bottom/right/left commands for nested divs rather than the columns. I guess this makes it easier. I wasn't sure about the columns working for me anyway. I am still straightening out the ticks on the first clock face and then want to tackle the extra space in mobile.
+
+**Thoughts:** Nothing much to say, I'm still fixing small details since I don't know what my next step is for this project. I may move onto something else soon when I am ready.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/d422fcc1668064638c01f5042c57804df4ee9375)
