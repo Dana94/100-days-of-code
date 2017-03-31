@@ -411,3 +411,12 @@
 **Thoughts:** Nothing much to say, I'm still fixing small details since I don't know what my next step is for this project. I may move onto something else soon when I am ready.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/d422fcc1668064638c01f5042c57804df4ee9375)
+
+### Day 61: March 31, 2017
+##### clock
+
+**Today's Progress**: Fixed the mysterious extra margin in mobile. I believe the black trapezoid caused the extra space due to its large margin value. Glad that is over. I'm using [screenfly](http://quirktools.com/screenfly/) to test the current program as I'm working on customizing the view and sizing in different mobiles.
+
+**Thoughts:** I won't be done with this until it is mobile ready, then, I don't know, maybe finally work on a portfolio site? I finally have some of my own creations to show there. :)
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/3c1c18e51ebc1529e254237a726adbbe9cc8eac7)
