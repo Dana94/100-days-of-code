@@ -420,3 +420,12 @@
 **Thoughts:** I won't be done with this until it is mobile ready, then, I don't know, maybe finally work on a portfolio site? I finally have some of my own creations to show there. :)
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/3c1c18e51ebc1529e254237a726adbbe9cc8eac7)
+
+### Day 62: April 2, 2017
+##### clock
+
+**Today's Progress**: The clocks show nicely on phone screens. Onto tablets!
+
+**Thoughts:** I am going to have sooo many media queries when I am done with this program. I'm not sure if I want to display the clocks at the same time, or maybe have the user choose their preference.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/f8a84f655152c7768813fb9e9be1808195fe499f)
