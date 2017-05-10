@@ -438,3 +438,12 @@
 **Thoughts:** I mentioned in my previous post on whether the user should decide on what clock they want to show. It may make things easier for me since only one clock will be displayed.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/e53bd534c7379f2b36fe4849b02e2b64873557e6)
+
+### Day 64: May 10, 2017
+##### clock
+
+**Today's Progress**: Plans are in the works! I want to have thumbnails of the clock faces displayed so the user can pick and choose which to use. When this is done, I may invest time in giving the user access to different color themes for the clocks.
+
+**Thoughts:** I'm glad I have a set plan now. I really like how the clocks look, but this program lacked some sense in its purpose.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/b0a2243c181db320f799fe03cdff549c6fd8b6ba)
