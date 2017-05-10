@@ -429,3 +429,12 @@
 **Thoughts:** I am going to have sooo many media queries when I am done with this program. I'm not sure if I want to display the clocks at the same time, or maybe have the user choose their preference.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/f8a84f655152c7768813fb9e9be1808195fe499f)
+
+### Day 63: May 9, 2017
+##### clock
+
+**Today's Progress**: Thanks to screenfly, it seems that my work with phones is not done. Will continue to check that all sizes look good.
+
+**Thoughts:** I mentioned in my previous post on whether the user should decide on what clock they want to show. It may make things easier for me since only one clock will be displayed.
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/e53bd534c7379f2b36fe4849b02e2b64873557e6)
