@@ -447,3 +447,12 @@
 **Thoughts:** I'm glad I have a set plan now. I really like how the clocks look, but this program lacked some sense in its purpose.
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/b0a2243c181db320f799fe03cdff549c6fd8b6ba)
+
+### Day 65: May 11, 2017
+##### clock
+
+**Today's Progress**: I made the clocks smaller for the opening page and was able to remove the hands without distorting the other features.
+
+**Thoughts:** Nothing now, still working!
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/ec0081731f6cae87c36e4e849c2153eb39bc2758)
