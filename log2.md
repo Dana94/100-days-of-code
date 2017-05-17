@@ -462,6 +462,7 @@
 
 **Today's Progress**: Due to my constant additions of quotes, I decided to try and create a text file that will read off the quotes randomly in the program. That way, I will only have to update the text file to add quotes and nothing else.
 
-**Thoughts:** I have never done any sort of file reading in JS before, so I am in unfamiliar territory. :)
+**Thoughts:** I have never done any sort of file reading in JS before, so I am in unfamiliar territory. : )
 
-**Link to work:** [random-quote-machine](https://dana94.github.io/random-quote-machine/)This is what I had before the text file plan, I just added gh-pages so it is now public.
+**Link to work:** [random-quote-machine](https://dana94.github.io/random-quote-machine/)
+This is what I had before the text file plan, I just added gh-pages so it is now public.
