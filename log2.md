@@ -466,3 +466,12 @@
 
 **Link to work:** [random-quote-machine](https://dana94.github.io/random-quote-machine/)
 This is what I had before the text file plan, I just added gh-pages so it is now public.
+
+### Day 67: May 19, 2017
+##### flower-slideshow
+
+**Today's Progress**: Something clicked when I was surfing through MDN and I found the perfect solution to my file uploader. Have the <input> be 'display: none' and it will be triggered by a button that the user is meant to click on when adding an image. I need to look into the src because I had some images directly typed into the js file and are in the images folder in the project. I need to make this work with all image paths.
+
+**Thoughts:** I am so stoked that I made some progress on this since it has been a while. I seem to be gravitating to whatever project I'm in the mood for.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/86be037f47b18784309d352afb531c9049b2d095)
