@@ -475,3 +475,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I am so stoked that I made some progress on this since it has been a while. I seem to be gravitating to whatever project I'm in the mood for.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/86be037f47b18784309d352afb531c9049b2d095)
+
+### Day 68: May 25, 2017
+##### flower-slideshow
+
+**Today's Progress**: So the "getting the file path to display the uploaded images" is still hard for me. There are soooo many ways to do this. I'm still figuring it out. I'm trying to fix other issues when I see them.
+
+**Thoughts:** I realized that when I minimized the screen to mobile, the grid layout will stay until the page is reloaded. I need it to automatically know that it should be in column form in a smaller screen.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4a7952ff6af769ce63c09a30606aad3d85d02416)
