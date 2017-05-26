@@ -484,3 +484,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I realized that when I minimized the screen to mobile, the grid layout will stay until the page is reloaded. I need it to automatically know that it should be in column form in a smaller screen.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/4a7952ff6af769ce63c09a30606aad3d85d02416)
+
+### Day 69: May 26, 2017
+##### flower-slideshow
+
+**Today's Progress**: Today I created a timer so the window size can be checked in case the gallery should be in column form for mobile screens. Also, I got the images uploaded! I got the code mostly from resources (which I noted in the file). Now I need to fix the issue of keeping the images in the gallery when the page is reloaded.
+
+**Thoughts:** That image uploader part took a loooong time to get. I cannot tell you how many websites I bookmarked in order to understand that. I probably need to ask for more clarification though. : )
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/01b9dca6d87dd014c5519637d7ed3ee30ea9f01d)
