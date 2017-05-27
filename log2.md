@@ -493,3 +493,13 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** That image uploader part took a loooong time to get. I cannot tell you how many websites I bookmarked in order to understand that. I probably need to ask for more clarification though. : )
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/01b9dca6d87dd014c5519637d7ed3ee30ea9f01d)
+
+### Day 70: May 27, 2017
+##### flower-slideshow and danaottaviani.github.io
+
+**Today's Progress**: Today I used the same timer from yesterday to also check when any images have been newly uploaded so the program will reload the correct gallery layout to display the new images. I'm a bit concerned about this idea if there are more than 50 images to reupload just because there are just 1 or 2 new ones. I also decided to add icons for the contact info in my resume site as well as my Free Code Camp profile. I was a little hesitant of this one, but as long as it shows my progress, I think it should be there.
+
+**Thoughts:** I need to work on the slider function in danaottaviani.github.io. When it scrolls it cuts off a little of the top of the section it is scolling to. This may be from the new data I added, maybe the spacing needs to be fixed in the top or something.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/9e9f20c77e2db73c39de64318e0993b961919e1d)
+   [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/1f6025ca396917769387e9940362a670f9d7cd10)
