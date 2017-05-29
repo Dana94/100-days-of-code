@@ -503,3 +503,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/9e9f20c77e2db73c39de64318e0993b961919e1d)
    [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/1f6025ca396917769387e9940362a670f9d7cd10)
+   
+### Day 71: May 29, 2017
+##### flower-slideshow
+
+**Today's Progress**: I simply edited some things in the program today. When an image was clicked on to be displayed, the left/right buttons would not move left and right from that chosen image, now it does.
+
+**Thoughts:** I'm going to ask on Free Code Camp about how to save images into the program so they don't disappear after refreshing the page. I also made it live on gh-pages.
+
+**Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/bf65a17b13a063b5026de178622699f090f58157)
