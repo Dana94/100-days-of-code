@@ -512,3 +512,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I'm going to ask on Free Code Camp about how to save images into the program so they don't disappear after refreshing the page. I also made it live on gh-pages.
 
 **Link to work:** [flower-slideshow](https://github.com/Dana94/flower-slideshow/commit/bf65a17b13a063b5026de178622699f090f58157)
+
+### Day 72: May 30, 2017
+##### danaottaviani.github.io
+
+**Today's Progress**: So I started working on the layout for about.html. I really wanted to use parallax again because the design is so cool. I'm thinking that the current resume site may be a link from this about.html page so it won't be the main focus. Everything is kind of up in the air, but I know that it was time to really get a serious portfolio site up and running.
+
+**Thoughts:** I have seen some really cool designs on Free Code Camp and I just wanted to get some inspiration from there to create my own sleek portfolio page. I hope it looks good in the end, I will definitely ask for feedback when it is done.
+
+**Link to work:** [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/ca9e8505aff3f8a92bc05b9b7f347a9bf3f2c088)
