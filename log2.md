@@ -521,3 +521,13 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I have seen some really cool designs on Free Code Camp and I just wanted to get some inspiration from there to create my own sleek portfolio page. I hope it looks good in the end, I will definitely ask for feedback when it is done.
 
 **Link to work:** [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/ca9e8505aff3f8a92bc05b9b7f347a9bf3f2c088)
+
+### Day 73: May 31, 2017
+##### danaottaviani.github.io
+
+**Today's Progress**: I added the contact icons for the portfolio and played around with the clocks to try to have their individual pages look good in mobile. A friend mentioned that the reason that clicking the clocks is not dislaying their own html page is because I have to do a XMLHttpRequest. I've loaded new pages upon submitting a form and I do not recall doing that before. 
+
+**Thoughts:** I am really having second thoughts about this new about.html layout. I'm considering taking the color scheme and pictures from my resume site and making it into a portfolio instead of a pretty resume. It was orginally meant to show employers some representation of my skill level but I keep coming back to its awesomeness while struggling with the about.html layout. I may just save the index.html file somewhere else and then overwrite it with the new portfolio idea. Once I do more mobile configuring with the clocks, I will get into that XMLHttpRequest thing to understad how to load the chosen clock by the user.
+
+**Link to work:** [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/eaecb1bdce8337e775aa1856262e0754beb53435),
+[clock](https://github.com/Dana94/clock/commit/aa30b3cc315cfa0a43a013bd16734a4f6b9be9cd)
