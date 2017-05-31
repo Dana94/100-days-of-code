@@ -523,7 +523,7 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Link to work:** [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/ca9e8505aff3f8a92bc05b9b7f347a9bf3f2c088)
 
 ### Day 73: May 31, 2017
-##### danaottaviani.github.io
+##### danaottaviani.github.io and clock
 
 **Today's Progress**: I added the contact icons for the portfolio and played around with the clocks to try to have their individual pages look good in mobile. A friend mentioned that the reason that clicking the clocks is not dislaying their own html page is because I have to do a XMLHttpRequest. I've loaded new pages upon submitting a form and I do not recall doing that before. 
 
