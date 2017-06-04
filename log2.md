@@ -531,3 +531,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 
 **Link to work:** [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/eaecb1bdce8337e775aa1856262e0754beb53435),
 [clock](https://github.com/Dana94/clock/commit/aa30b3cc315cfa0a43a013bd16734a4f6b9be9cd)
+
+### Day 74: June 4, 2017
+##### clock
+
+**Today's Progress**: Doing some mobile work. Nothing looks good yet, I am trying to find a way to minimize the needed media queries.
+
+**Thoughts:** I'm constantly looking for an easier way to center the clocks in different screen sizes. I found something on CSS-tricks but I think because the clocks are in the same class="row", the given .centered class will have them overlap. Maybe I can change the div classes according to the screen size, sort of like how I made the different gallery layouts for the flower-slideshow. 
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/a509601dddbd8bafe63965a288de221aa2d32c76)
