@@ -540,3 +540,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I'm constantly looking for an easier way to center the clocks in different screen sizes. I found something on CSS-tricks but I think because the clocks are in the same class="row", the given .centered class will have them overlap. Maybe I can change the div classes according to the screen size, sort of like how I made the different gallery layouts for the flower-slideshow. 
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/a509601dddbd8bafe63965a288de221aa2d32c76)
+
+### Day 75: June 10, 2017
+##### clock
+
+**Today's Progress**: Still on mobile.
+
+**Thoughts:** I am reading about vh and vw and seeing if they could work to my advantage. I am so frustrated with the multiple screen sizes and the never-ending cases for customizing them to look good with individual code segments in CSS. 
+
+**Link to work:** [clock](https://github.com/Dana94/clock/commit/d17411e0bf3a91ee29a65f9e2d5e2804da886e65)
