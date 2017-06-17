@@ -549,3 +549,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I am reading about vh and vw and seeing if they could work to my advantage. I am so frustrated with the multiple screen sizes and the never-ending cases for customizing them to look good with individual code segments in CSS. 
 
 **Link to work:** [clock](https://github.com/Dana94/clock/commit/d17411e0bf3a91ee29a65f9e2d5e2804da886e65)
+
+### Day 76: June 17, 2017
+##### danaottaviani.github.io
+
+**Today's Progress**: I was trying to configure the layout the way I want it but it just seems, I don't know, too typical? I need to read up about what makes a great portfolio site attract people and look at others to accumulate different styles into my own site. I believe once I have a game plan, I will be more engaged in this project.
+
+**Thoughts:** Sorry it's been a while, I really want to finish these different projects I have. I think I will look into the flower-slideshow server thing since I can also use that for my random-quote-machine too.
+
+**Link to work:** [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/9c8009b54e9524ce16260371fe62d1c288425a9f)
