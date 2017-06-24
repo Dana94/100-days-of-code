@@ -553,8 +553,17 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 ### Day 76: June 17, 2017
 ##### danaottaviani.github.io
 
-**Today's Progress**: I was trying to configure the layout the way I want it but it just seems, I don't know, too typical? I need to read up about what makes a great portfolio site attract people and look at others to accumulate different styles into my own site. I believe once I have a game plan, I will be more engaged in this project.
+**Today's Progress:** I was trying to configure the layout the way I want it but it just seems, I don't know, too typical? I need to read up about what makes a great portfolio site attract people and look at others to accumulate different styles into my own site. I believe once I have a game plan, I will be more engaged in this project.
 
 **Thoughts:** Sorry it's been a while, I really want to finish these different projects I have. I think I will look into the flower-slideshow server thing since I can also use that for my random-quote-machine too.
 
 **Link to work:** [danaottaviani.github.io](https://github.com/Dana94/danaottaviani.github.io/commit/9c8009b54e9524ce16260371fe62d1c288425a9f)
+
+### Day 77: June 24, 2017
+##### Portfolio and Template
+
+**Today's Progress:** Well, after research and drawing out the layout, I am finally trying to create my (long over due) portfolio page. For today I've been picking away at the danaottaviani.github.io code and modifying it to match my design. I also decided to add a template repository since I pretty much use the same libraries all the time. 
+
+**Thoughts:** I plan to work on getting the mLab database set up with my random-quote-machine as I work on my portfolio. I want to have more than one or two projects to show once the site is public. I'm thinking of starting another free language course or perhaps experimenting with SASS as I do my other things. 
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/bc91313c65886aa7938ed4cf7cf4358a204dc616), [Template](https://github.com/Dana94/Template/commit/a0198c8b55dd4bf7da25b583b4fd3207c6bd730c)
