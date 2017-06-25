@@ -567,3 +567,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I plan to work on getting the mLab database set up with my random-quote-machine as I work on my portfolio. I want to have more than one or two projects to show once the site is public. I'm thinking of starting another free language course or perhaps experimenting with SASS as I do my other things. 
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/bc91313c65886aa7938ed4cf7cf4358a204dc616), [Template](https://github.com/Dana94/Template/commit/a0198c8b55dd4bf7da25b583b4fd3207c6bd730c)
+
+### Day 78: June 25, 2017
+##### Portfolio
+
+**Today's Progress:** My image is giving me some strange margin issues. I believe it's because scaling the image down does not remove the space it would have taken up if it was its original size. Which is a weird concept. I also got connected to my mLab database for my random-quotes-machine. I'm going to make a JSON file with a few quotes and see how it looks uploaded to the database. 
+
+**Thoughts:** I always have trouble with images. This flex-box tool looks like a solution, but the documentation seems kind of daunting. 
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/e697aaf610ac75cb22bb88cca404248fc598515d)
