@@ -576,3 +576,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I always have trouble with images. This flex-box tool looks like a solution, but the documentation seems kind of daunting. 
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/e697aaf610ac75cb22bb88cca404248fc598515d)
+
+### Day 79: July 1, 2017
+##### Portfolio and clock
+
+**Today's Progress:** For the portfolio, I tested a different color to possibly go with the dark purple. I like how it looks with the language logos. I decided to change it up with some color so I looked at a site (link in my html code) that has (some) free downloads of programming language icons. I just added HTML5, CSS, and JS. For the clock, I decided to organize my stylesheets with the help of @import so I won't have the same code repeated in numerous files.
+
+**Thoughts:** I'm going to try to code more this coming week. I am usually tired of going on the computer after my job, but I intend to try to code for 30 min or so each day. I want to keep a consistent schedule when it comes to coding.  
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/375935673bf6b93fcee43b8c74d30857952092fd), [clock](https://github.com/Dana94/clock/commit/09ccccdec37423b74d04e7254a3de2971ca343de)
