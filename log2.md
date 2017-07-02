@@ -585,3 +585,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I'm going to try to code more this coming week. I am usually tired of going on the computer after my job, but I intend to try to code for 30 min or so each day. I want to keep a consistent schedule when it comes to coding.  
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/375935673bf6b93fcee43b8c74d30857952092fd), [clock](https://github.com/Dana94/clock/commit/09ccccdec37423b74d04e7254a3de2971ca343de)
+
+### Day 80: July 2, 2017
+##### Portfolio
+
+**Today's Progress:** Made the row colors lighter as you go down the screen. Hope it looks good to other viewers. I created the placeholdesr for the projects but I have to work on the spacing and title position. I may decide to have the row titles in the top center instead of the left side. We'll see.
+
+**Thoughts:** When I finish this portfolio, I need to work on the obstacles of the other programs that are keeping me from finishing them.  
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/e92b3074ba48301cfee553c1ee14184402971577)
