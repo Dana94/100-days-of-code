@@ -594,3 +594,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** When I finish this portfolio, I need to work on the obstacles of the other programs that are keeping me from finishing them.  
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/e92b3074ba48301cfee553c1ee14184402971577)
+
+### Day 81: July 9, 2017
+##### Portfolio
+
+**Today's Progress:** After practicing with bootstrap, I decided to implement a better way to display the projects. Now I am using an image of one of my apps to see how it will look in the end.
+
+**Thoughts:** I'm deciding whether to have background images in divs or just show images for the project visuals. I want whatever doesn't look distorted on mobile.
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commits/master)
