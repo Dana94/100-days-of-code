@@ -603,3 +603,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I'm deciding whether to have background images in divs or just show images for the project visuals. I want whatever doesn't look distorted on mobile.
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commits/master)
+
+### Day 82: July 16, 2017
+##### Portfolio
+
+**Today's Progress:** I was looking at the code for [this portfolio](https://codepen.io/envincebal/full/BRvBOm/) for inspiration and guidance because I was tired of going in circles with the positioning of my project row. Now I am working on making sure the projects aren't too tall in mobile and then trying to figure out what and why is causing there to be a slight margin on the right side of the page. 
+
+**Thoughts:** At first, I was ashamed of looking at someone else's code for the layout of this project. And you know what? I'm not anymore. I have come such a long way and learned so much by examining other people's code. This is a way for me to learn the easier ways to structure my pages without having to go from square one each time. I also put a link to his portfolio in my stylesheet to give credit. :)
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/25b65b61e1ae64b860f920e7d002150f0b983dfb)
