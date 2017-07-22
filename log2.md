@@ -612,3 +612,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** At first, I was ashamed of looking at someone else's code for the layout of this project. And you know what? I'm not anymore. I have come such a long way and learned so much by examining other people's code. This is a way for me to learn the easier ways to structure my pages without having to go from square one each time. I also put a link to his portfolio in my stylesheet to give credit. :)
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/25b65b61e1ae64b860f920e7d002150f0b983dfb)
+
+### Day 83: July 22, 2017
+##### Portfolio
+
+**Today's Progress:** I added the contact icons and fixed the language ones so they don't stack until extra small screens.
+
+**Thoughts:** Finally got off my butt and asked questions on Free Code Camp. If anything, this will encourage me to try and see if their solutions help fix my issues during the week, and not wait until the weekend.
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/7b71e4f0d6e714b5691ed52d63dd810c90fccadb)
