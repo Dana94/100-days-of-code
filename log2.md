@@ -621,3 +621,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** Finally got off my butt and asked questions on Free Code Camp. If anything, this will encourage me to try and see if their solutions help fix my issues during the week, and not wait until the weekend.
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/7b71e4f0d6e714b5691ed52d63dd810c90fccadb)
+
+### Day 84: August 12, 2017
+##### Portfolio
+
+**Today's Progress:** Making an "ongoing projects" and "completed projects" section of my portfolio.
+
+**Thoughts:** After someone at my job inquired about my front-end experience, I realized that it doesn't hurt to show off merely the design part of some of my projects (even though I don't consider them done yet). I can imagine someone will give me negative feedback about this but honestly, I don't care. It's not like I'm saying they all work yet, I'm proud of how much my html and css have improved, as well as understading Bootstrap. :)
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/8d4f25f1509f6a5534cb6414c9c3b755d578bca9)
