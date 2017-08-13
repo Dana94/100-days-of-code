@@ -630,3 +630,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** After someone at my job inquired about my front-end experience, I realized that it doesn't hurt to show off merely the design part of some of my projects (even though I don't consider them done yet). I can imagine someone will give me negative feedback about this but honestly, I don't care. It's not like I'm saying they all work yet, I'm proud of how much my html and css have improved, as well as understading Bootstrap. :)
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/8d4f25f1509f6a5534cb6414c9c3b755d578bca9)
+
+### Day 85: August 13, 2017
+##### Portfolio
+
+**Today's Progress:** Working on importing html files containing my project stuff for the portfolio.
+
+**Thoughts:** This is seeming to be harder than I expected. I'm currently trying AJAX (for the first time) and maybe it is because I'm doing this from local files, but I have not been able to load the html files successfully. I really want to organize my code more so I'd really like to find a way to do this.
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/86ea7d5d65ad06db05fa7381c1f081344f9e9715)
