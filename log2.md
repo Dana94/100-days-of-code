@@ -639,3 +639,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** This is seeming to be harder than I expected. I'm currently trying AJAX (for the first time) and maybe it is because I'm doing this from local files, but I have not been able to load the html files successfully. I really want to organize my code more so I'd really like to find a way to do this.
 
 **Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commit/86ea7d5d65ad06db05fa7381c1f081344f9e9715)
+
+### Day 86: September 10, 2017
+##### random-quote-machine
+
+**Today's Progress:** Used Browserify for the first time to use npm packages in the browser.
+
+**Thoughts:** After using Node.js and npm a lot at work, I really wanted to get used to aplying it in my personal projects. I thought the best way would be to put all my quotes in a csv rather than an array and parse through it with the [fs](https://nodejs.org/api/fs.html) and [csv](https://www.npmjs.com/package/csv) packages. After some obstacles, I now have it able to read the csv, next is to have them display randomly in the program, about 10 or so.
+
+**Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/e83f1b1f296d5e2a2d395e26ab1b53268ef5db72)
