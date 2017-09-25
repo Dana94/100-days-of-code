@@ -648,3 +648,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** After using Node.js and npm a lot at work, I really wanted to get used to aplying it in my personal projects. I thought the best way would be to put all my quotes in a csv rather than an array and parse through it with the [fs](https://nodejs.org/api/fs.html) and [csv](https://www.npmjs.com/package/csv) packages. After some obstacles, I now have it able to read the csv, next is to have them display randomly in the program, about 10 or so.
 
 **Link to work:** [random-quote-machine](https://github.com/Dana94/random-quote-machine/commit/e83f1b1f296d5e2a2d395e26ab1b53268ef5db72)
+
+### Day 87: September 24, 2017
+##### Portfolio
+
+**Today's Progress:** Added npm image to portfolio...yep that's about it.
+
+**Thoughts:** I thought once I started gaining more experience at work I would then bring the momentum home with me but when I am on my personal computer there are so many other things that I am driven to do instead of program more. It also kinda kills the mood when switching to a single screen laptop from 2 large monitors. :/ I'm not giving up though. No matter how distant my logs seem to be.
+
+**Link to work:** [Portfolio](https://github.com/Dana94/Portfolio/commits/master)
