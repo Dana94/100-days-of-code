@@ -663,5 +663,6 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 
 **Today's Progress:** Started a new repo, making a calculator that looks like one I own.
 
-**Thoughts:** So, I got this small toy calculator at Claire's (ages ago) and I thought that it would motivate me to make something that looked like [this](http://www.g4iat.co.uk/calculators/smarties/gallery/C1831.jpg). I'm also finally using scss in a project and VS Code too. Since Visual Studio made me nervous about using another Microsoft editor, I was nervous that I would not like to use VS Code but so far so good!
+**Thoughts:** So, I got this small toy calculator at Claire's (ages ago) and I thought that it would motivate me to make something that looked like [this](http://www.g4iat.co.uk/calculators/smarties/gallery/C1831.jpg). I'm also finally using scss in a project and VS Code too. Since Visual Studio made me nervous about using another Microsoft editor, I was worried that I would not like to use VS Code but so far so good!
+
 **Link to work:** [heart-calculator](https://github.com/Dana94/heart-calculator/commit/190f0847496d84b1a9b04ceae365162c8a59f7ae)
