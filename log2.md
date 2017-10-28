@@ -666,3 +666,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** So, I got this small toy calculator at Claire's (ages ago) and I thought that it would motivate me to make something that looked like [this](http://www.g4iat.co.uk/calculators/smarties/gallery/C1831.jpg). I'm also finally using scss in a project and VS Code too. Since Visual Studio made me nervous about using another Microsoft editor, I was worried that I would not like to use VS Code but so far so good!
 
 **Link to work:** [heart-calculator](https://github.com/Dana94/heart-calculator/commit/190f0847496d84b1a9b04ceae365162c8a59f7ae)
+
+### Day 89: October 28, 2017
+##### heart-calculator
+
+**Today's Progress:** Started laying out the first row of buttons.
+
+**Thoughts:** I'm trying to find the best size for the calculator so the buttons are readable. Once the buttons are layed out, then I can start putting in colors!
+
+**Link to work:** [heart-calculator](https://github.com/Dana94/heart-calculator/commit/8a0c79a153b1534e89d4c2f0fa09386ae64ef7f5)
