@@ -675,3 +675,12 @@ This is what I had before the text file plan, I just added gh-pages so it is now
 **Thoughts:** I'm trying to find the best size for the calculator so the buttons are readable. Once the buttons are layed out, then I can start putting in colors!
 
 **Link to work:** [heart-calculator](https://github.com/Dana94/heart-calculator/commit/8a0c79a153b1534e89d4c2f0fa09386ae64ef7f5)
+
+### Day 90: October 29, 2017
+##### heart-calculator
+
+**Today's Progress:** Added color to the buttons and trying to understand why a "forEach" isn't working as intended.
+
+**Thoughts:** I'm trying to add an event listener to the first row of buttons just so I know what I am doing. It seems that I need to look into why I can't just use a "forEach" to accomplish this.
+
+**Link to work:** [heart-calculator](https://github.com/Dana94/heart-calculator/commits/master)
